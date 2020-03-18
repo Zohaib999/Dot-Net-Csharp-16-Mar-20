@@ -1,0 +1,10 @@
+C:\Users\Zohaib\Desktop\Paractice\Notes\1 C#\C#-practice\9Array\bin\Debug\netcoreapp3.1\9Array.exe
+C:\Users\Zohaib\Desktop\Paractice\Notes\1 C#\C#-practice\9Array\bin\Debug\netcoreapp3.1\9Array.deps.json
+C:\Users\Zohaib\Desktop\Paractice\Notes\1 C#\C#-practice\9Array\bin\Debug\netcoreapp3.1\9Array.runtimeconfig.json
+C:\Users\Zohaib\Desktop\Paractice\Notes\1 C#\C#-practice\9Array\bin\Debug\netcoreapp3.1\9Array.runtimeconfig.dev.json
+C:\Users\Zohaib\Desktop\Paractice\Notes\1 C#\C#-practice\9Array\bin\Debug\netcoreapp3.1\9Array.dll
+C:\Users\Zohaib\Desktop\Paractice\Notes\1 C#\C#-practice\9Array\bin\Debug\netcoreapp3.1\9Array.pdb
+C:\Users\Zohaib\Desktop\Paractice\Notes\1 C#\C#-practice\9Array\obj\Debug\netcoreapp3.1\9Array.AssemblyInfoInputs.cache
+C:\Users\Zohaib\Desktop\Paractice\Notes\1 C#\C#-practice\9Array\obj\Debug\netcoreapp3.1\9Array.AssemblyInfo.cs
+C:\Users\Zohaib\Desktop\Paractice\Notes\1 C#\C#-practice\9Array\obj\Debug\netcoreapp3.1\9Array.dll
+C:\Users\Zohaib\Desktop\Paractice\Notes\1 C#\C#-practice\9Array\obj\Debug\netcoreapp3.1\9Array.pdb

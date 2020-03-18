@@ -1,0 +1,11 @@
+C:\Users\Zohaib\Desktop\Paractice\Notes\1 C#\C#-practice\InterfaceAndAbstract\bin\Debug\netcoreapp3.1\AbstractClass.exe
+C:\Users\Zohaib\Desktop\Paractice\Notes\1 C#\C#-practice\InterfaceAndAbstract\bin\Debug\netcoreapp3.1\AbstractClass.deps.json
+C:\Users\Zohaib\Desktop\Paractice\Notes\1 C#\C#-practice\InterfaceAndAbstract\bin\Debug\netcoreapp3.1\AbstractClass.runtimeconfig.json
+C:\Users\Zohaib\Desktop\Paractice\Notes\1 C#\C#-practice\InterfaceAndAbstract\bin\Debug\netcoreapp3.1\AbstractClass.runtimeconfig.dev.json
+C:\Users\Zohaib\Desktop\Paractice\Notes\1 C#\C#-practice\InterfaceAndAbstract\bin\Debug\netcoreapp3.1\AbstractClass.dll
+C:\Users\Zohaib\Desktop\Paractice\Notes\1 C#\C#-practice\InterfaceAndAbstract\bin\Debug\netcoreapp3.1\AbstractClass.pdb
+C:\Users\Zohaib\Desktop\Paractice\Notes\1 C#\C#-practice\InterfaceAndAbstract\obj\Debug\netcoreapp3.1\AbstractClass.csprojAssemblyReference.cache
+C:\Users\Zohaib\Desktop\Paractice\Notes\1 C#\C#-practice\InterfaceAndAbstract\obj\Debug\netcoreapp3.1\AbstractClass.AssemblyInfoInputs.cache
+C:\Users\Zohaib\Desktop\Paractice\Notes\1 C#\C#-practice\InterfaceAndAbstract\obj\Debug\netcoreapp3.1\AbstractClass.AssemblyInfo.cs
+C:\Users\Zohaib\Desktop\Paractice\Notes\1 C#\C#-practice\InterfaceAndAbstract\obj\Debug\netcoreapp3.1\AbstractClass.dll
+C:\Users\Zohaib\Desktop\Paractice\Notes\1 C#\C#-practice\InterfaceAndAbstract\obj\Debug\netcoreapp3.1\AbstractClass.pdb

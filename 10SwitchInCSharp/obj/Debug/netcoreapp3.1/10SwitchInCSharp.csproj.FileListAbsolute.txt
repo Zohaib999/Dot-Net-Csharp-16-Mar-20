@@ -1,0 +1,10 @@
+C:\Users\Zohaib\Desktop\Paractice\Notes\1 C#\C#-practice\10SwitchInCSharp\bin\Debug\netcoreapp3.1\10SwitchInCSharp.exe
+C:\Users\Zohaib\Desktop\Paractice\Notes\1 C#\C#-practice\10SwitchInCSharp\bin\Debug\netcoreapp3.1\10SwitchInCSharp.deps.json
+C:\Users\Zohaib\Desktop\Paractice\Notes\1 C#\C#-practice\10SwitchInCSharp\bin\Debug\netcoreapp3.1\10SwitchInCSharp.runtimeconfig.json
+C:\Users\Zohaib\Desktop\Paractice\Notes\1 C#\C#-practice\10SwitchInCSharp\bin\Debug\netcoreapp3.1\10SwitchInCSharp.runtimeconfig.dev.json
+C:\Users\Zohaib\Desktop\Paractice\Notes\1 C#\C#-practice\10SwitchInCSharp\bin\Debug\netcoreapp3.1\10SwitchInCSharp.dll
+C:\Users\Zohaib\Desktop\Paractice\Notes\1 C#\C#-practice\10SwitchInCSharp\bin\Debug\netcoreapp3.1\10SwitchInCSharp.pdb
+C:\Users\Zohaib\Desktop\Paractice\Notes\1 C#\C#-practice\10SwitchInCSharp\obj\Debug\netcoreapp3.1\10SwitchInCSharp.AssemblyInfoInputs.cache
+C:\Users\Zohaib\Desktop\Paractice\Notes\1 C#\C#-practice\10SwitchInCSharp\obj\Debug\netcoreapp3.1\10SwitchInCSharp.AssemblyInfo.cs
+C:\Users\Zohaib\Desktop\Paractice\Notes\1 C#\C#-practice\10SwitchInCSharp\obj\Debug\netcoreapp3.1\10SwitchInCSharp.dll
+C:\Users\Zohaib\Desktop\Paractice\Notes\1 C#\C#-practice\10SwitchInCSharp\obj\Debug\netcoreapp3.1\10SwitchInCSharp.pdb

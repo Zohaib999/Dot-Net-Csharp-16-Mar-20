@@ -1,0 +1,11 @@
+C:\Users\Zohaib\Desktop\Paractice\Notes\1 C#\C#-practice\Arrays\bin\Debug\netcoreapp3.1\Arrays.exe
+C:\Users\Zohaib\Desktop\Paractice\Notes\1 C#\C#-practice\Arrays\bin\Debug\netcoreapp3.1\Arrays.deps.json
+C:\Users\Zohaib\Desktop\Paractice\Notes\1 C#\C#-practice\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.json
+C:\Users\Zohaib\Desktop\Paractice\Notes\1 C#\C#-practice\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.dev.json
+C:\Users\Zohaib\Desktop\Paractice\Notes\1 C#\C#-practice\Arrays\bin\Debug\netcoreapp3.1\Arrays.dll
+C:\Users\Zohaib\Desktop\Paractice\Notes\1 C#\C#-practice\Arrays\bin\Debug\netcoreapp3.1\Arrays.pdb
+C:\Users\Zohaib\Desktop\Paractice\Notes\1 C#\C#-practice\Arrays\obj\Debug\netcoreapp3.1\Arrays.csprojAssemblyReference.cache
+C:\Users\Zohaib\Desktop\Paractice\Notes\1 C#\C#-practice\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfoInputs.cache
+C:\Users\Zohaib\Desktop\Paractice\Notes\1 C#\C#-practice\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfo.cs
+C:\Users\Zohaib\Desktop\Paractice\Notes\1 C#\C#-practice\Arrays\obj\Debug\netcoreapp3.1\Arrays.dll
+C:\Users\Zohaib\Desktop\Paractice\Notes\1 C#\C#-practice\Arrays\obj\Debug\netcoreapp3.1\Arrays.pdb
