@@ -1,0 +1,11 @@
+C:\Users\Zohaib\Desktop\Paractice\Notes\1 C#\C#-practice\while\bin\Debug\netcoreapp3.1\Whileloop.exe
+C:\Users\Zohaib\Desktop\Paractice\Notes\1 C#\C#-practice\while\bin\Debug\netcoreapp3.1\Whileloop.deps.json
+C:\Users\Zohaib\Desktop\Paractice\Notes\1 C#\C#-practice\while\bin\Debug\netcoreapp3.1\Whileloop.runtimeconfig.json
+C:\Users\Zohaib\Desktop\Paractice\Notes\1 C#\C#-practice\while\bin\Debug\netcoreapp3.1\Whileloop.runtimeconfig.dev.json
+C:\Users\Zohaib\Desktop\Paractice\Notes\1 C#\C#-practice\while\bin\Debug\netcoreapp3.1\Whileloop.dll
+C:\Users\Zohaib\Desktop\Paractice\Notes\1 C#\C#-practice\while\bin\Debug\netcoreapp3.1\Whileloop.pdb
+C:\Users\Zohaib\Desktop\Paractice\Notes\1 C#\C#-practice\while\obj\Debug\netcoreapp3.1\Whileloop.AssemblyInfoInputs.cache
+C:\Users\Zohaib\Desktop\Paractice\Notes\1 C#\C#-practice\while\obj\Debug\netcoreapp3.1\Whileloop.AssemblyInfo.cs
+C:\Users\Zohaib\Desktop\Paractice\Notes\1 C#\C#-practice\while\obj\Debug\netcoreapp3.1\Whileloop.dll
+C:\Users\Zohaib\Desktop\Paractice\Notes\1 C#\C#-practice\while\obj\Debug\netcoreapp3.1\Whileloop.pdb
+C:\Users\Zohaib\Desktop\Paractice\Notes\1 C#\C#-practice\while\obj\Debug\netcoreapp3.1\Whileloop.csprojAssemblyReference.cache
