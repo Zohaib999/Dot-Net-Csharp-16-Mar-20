@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Zohaib\\Desktop\\Paractice\\Notes\\1 C#\\C#-practice\\while\\Whileloop.csproj",
-      "projectName": "Whileloop",
-      "projectPath": "C:\\Users\\Zohaib\\Desktop\\Paractice\\Notes\\1 C#\\C#-practice\\while\\Whileloop.csproj",
+      "projectUniqueName": "C:\\Users\\Zohaib\\Desktop\\Paractice\\Notes\\1 C#\\C#-practice\\while\\Whileloop_Dowhile.csproj",
+      "projectName": "Whileloop_Dowhile",
+      "projectPath": "C:\\Users\\Zohaib\\Desktop\\Paractice\\Notes\\1 C#\\C#-practice\\while\\Whileloop_Dowhile.csproj",
       "packagesPath": "C:\\Users\\Zohaib\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Zohaib\\Desktop\\Paractice\\Notes\\1 C#\\C#-practice\\while\\obj\\",
       "projectStyle": "PackageReference",
