@@ -1,59 +1,67 @@
 ﻿using System;
 using System.IO;
 
-namespace ExceptionHanding
+class InnerException
 {
-    class Program
+    public static void main(String args[])
     {
-        static void Main(string[] args)
+        try
         {
             try
             {
-                Console.WriteLine("Enter a number to divide");
+
+                Console.WriteLine("Enter Enumenator  ");
                 int a = int.Parse(Console.ReadLine());
-                Console.WriteLine("Enter b number to divide");
+                Console.WriteLine("Enter Denumenator");
                 int b = int.Parse(Console.ReadLine());
-                int c = a / b;
-                Console.WriteLine("Answe of divide is  "+c);
-            } catch (Exception ex) {
-                Console.WriteLine(ex.Message); 
-                Console.WriteLine(ex.StackTrace); 
-            }
-            
-            //file Reader Exception
-            try
-            {
-                //Directory Does not exist
-                StreamReader ob = new StreamReader(@"G:\data.txt");
-                Console.WriteLine(ob.ReadToEnd());
-                ob.Close();
+
+                int div = a / b;
+                Console.WriteLine("Division is " + div);
+
 
             }
-            //Real time Inheritance Exception
-            //Child class 
-            //the console check the file in the Child Class First 
-            catch (FileNotFoundException ex)
+
+            catch (Exception ex)
+
+            
             {
-                Console.WriteLine("Please check " + ex.Message);
-               
-            }
-            //Parent class 
-            //If file is not found then it will find it in the parent class 
-            catch (Exception e)
-            {
-                Console.WriteLine(e.Message);
-                Console.WriteLine();
-            // e has fiels in it like e.message which dispys the message
-            // e.stacktrace which shows the line no. 
-            // etc and much more like e.data
-            }
-            //finally block always execute
-            //it is used to close the resources 
-            finally
-            {
-                Console.WriteLine("Finally block ");
+                //we want to save the error in the database 
+                //But File Not exist in the computer
+                String Path = @"C:/data/log.txt";
+
+                if (File.Exists(Path))
+
+                {
+
+                    StreamWriter StrRed = new StreamWriter(Path);
+                    StrRed.Write(ex.GetType().Name + ex.Message + ex.StackTrace);
+                    StrRed.Close();
+                    Console.WriteLine("There is a problem please try again");
+
+                }
+                else
+                {          //this will automatically call the outer exception
+
+                    throw new FileNotFoundException(Path + " Does not Exist", ex);
+
+                }
+
             }
 
         }
+        catch (Exception e)
+        {
+            // this will display the outer exception or current exception  
+            // File Does not exist
+            Console.WriteLine(e.Message);
+
+
+            // For the innner exception we have to use the InnerException Function of the C#
+            if (e.InnerException != null)
+            {
+                Console.WriteLine(e.InnerException.Message + "\n"); ;
+            }
+        }
     }
+
 }
